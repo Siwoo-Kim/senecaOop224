@@ -1,0 +1,3 @@
+﻿  CRA_Account.cpp
+c:\users\sm123\desktop\oop244\workshop3\cra_account.cpp(70): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  at_home_project.vcxproj -> C:\Users\sm123\Desktop\oop244\workshop3\at_home\at_home_project\Debug\at_home_project.exe
